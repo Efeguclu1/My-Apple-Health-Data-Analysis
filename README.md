@@ -2,6 +2,11 @@
 Data Science Project For Sabancı Universtiy CS210
 
 
+Hypotheses:
+Seasonal Analysis: The number of daily steps and sleep duration are influenced by seasonal changes, with higher activity in the summer and longer sleep duration in the winter.
+Weekly Analysis: Sleep duration and step counts vary consistently by day of the week, indicating a routine or habitual pattern related to work or lifestyle.
+
+
 Motivation:
 This project was undertaken with the objective of uncovering patterns and correlations between my daily physical activity, measured in steps, and sleep duration. The motivation behind this analysis is to gain insights into my personal health and well-being, with the aim of optimizing my daily routines for better sleep and increased physical activity.
 
